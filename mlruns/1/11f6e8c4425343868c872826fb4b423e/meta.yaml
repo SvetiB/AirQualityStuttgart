@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/elvir/Documents/Git_Projekte/AirQualityStuttgart/mlruns/1/11f6e8c4425343868c872826fb4b423e/artifacts
+end_time: 1593466376962
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 11f6e8c4425343868c872826fb4b423e
+run_uuid: 11f6e8c4425343868c872826fb4b423e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1593466295157
+status: 3
+tags: []
+user_id: sveti
