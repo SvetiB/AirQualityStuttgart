@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/elvir/Documents/Git_Projekte/AirQualityStuttgart/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Baseline Model AirQualityStuttgart
